@@ -4,7 +4,7 @@
 # In[10]:
 
 
-hw_string = 'HELLO WORLD'
+hw_string = 'HELLO WORLD!'
 hw_list = []
 hw_list = hw_string
 
